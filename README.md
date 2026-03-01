@@ -9,7 +9,7 @@ Hi! I'm **Elgun**, a passionate **Java Backend Developer** specialized in **Spri
 - Skilled with **databases, caching, containerization, and orchestration**  
 - Always exploring new tech trends and best practices  
 
-## Skills & Technologies
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
