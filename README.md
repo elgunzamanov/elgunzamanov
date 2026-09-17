@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://elgunzamanov.com">
-    <img src="https://img.shields.io/badge/Personal_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/Personal_Website-87CEFA?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Personal Website" />
   </a>
   <a href="https://github.com/elgunzamanov">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -35,7 +35,7 @@ Hi! I'm **Elgun Zamanov**, a Java Backend Developer focused on building secure, 
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -71,7 +71,7 @@ Hi! I'm **Elgun Zamanov**, a Java Backend Developer focused on building secure, 
 
 <p>
   <a href="https://elgunzamanov.com">
-    <img src="https://img.shields.io/badge/Visit_Personal_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Personal Website" />
+    <img src="https://img.shields.io/badge/Visit_Personal_Website-87CEFA?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit Personal Website" />
   </a>
 </p>
 
@@ -84,11 +84,11 @@ My personal portfolio website showcasing my background, technical projects, and 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elgunzamanov&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elgunzamanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunzamanov&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunzamanov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ My personal portfolio website showcasing my background, technical projects, and 
 ## LeetCode Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/elgunzamanov?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics" width="500" />
+  <img src="https://leetcard.jacoblin.cool/elgunzamanov?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ My personal portfolio website showcasing my background, technical projects, and 
 
 <p align="center">
   <a href="https://elgunzamanov.com">
-    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-87CEFA?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
   </a>
   <a href="https://github.com/elgunzamanov">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
