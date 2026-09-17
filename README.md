@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,10 +12,6 @@
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-</p>
-
-<p align="center">
-  <b>Backend Engineering • System Design • Problem Solving</b>
 </p>
 
 ---
@@ -41,35 +36,31 @@ Hi! I'm **Elgun Zamanov**, a Java Backend Developer focused on building secure, 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
-</p>
-
-### Databases & Messaging
-
-<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ### Frontend Development
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ---
@@ -90,26 +81,14 @@ My personal portfolio website showcasing my background, technical projects, and 
 
 ---
 
-### LeetCode
-
-<p>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-</p>
-
-A dedicated space for practicing algorithms, data structures, and improving problem-solving skills.
-
----
-
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elgunzamanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elgunzamanov&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="495" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunzamanov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgunzamanov&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" width="330" />
 </p>
 
 ---
@@ -117,7 +96,7 @@ A dedicated space for practicing algorithms, data structures, and improving prob
 ## LeetCode Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/elgunzamanov?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics" />
+  <img src="https://leetcard.jacoblin.cool/elgunzamanov?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics" width="500" />
 </p>
 
 ---
@@ -141,6 +120,9 @@ A dedicated space for practicing algorithms, data structures, and improving prob
   </a>
   <a href="https://github.com/elgunzamanov">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/elgunzamanov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
