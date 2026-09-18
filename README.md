@@ -6,12 +6,6 @@
   <a href="https://elgunzamanov.com">
     <img src="https://img.shields.io/badge/Personal_Website-1E1E21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
   </a>
-  <a href="https://github.com/elgunzamanov">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
 </p>
 
 ---
@@ -29,22 +23,6 @@
 
 ---
 
-## 🌐 Socials
-
-<p>
-  <a href="https://instagram.com/elgunzv">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/elgunzamanov">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://elgunzamanov.com">
-    <img src="https://img.shields.io/badge/Website-1E1E21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-</p>
-
----
-
 # 💻 Tech Stack
 
 ### Backend Development
@@ -52,8 +30,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
-  <img src="https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
 </p>
 
@@ -64,9 +40,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 ### Frontend Development
@@ -82,26 +55,21 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
-### DevOps, Cloud & Tools
+### DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### Personal Website
 
@@ -117,7 +85,7 @@ My personal portfolio website showcasing my background, technical projects, and 
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=elgunzamanov&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -133,7 +101,7 @@ My personal portfolio website showcasing my background, technical projects, and 
 
 ---
 
-## 🧠 LeetCode Statistics
+# 🧠 LeetCode Statistics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/elgunzamanov?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics" />
@@ -141,15 +109,7 @@ My personal portfolio website showcasing my background, technical projects, and 
 
 ---
 
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Microservices
 - Docker
@@ -157,11 +117,11 @@ My personal portfolio website showcasing my background, technical projects, and 
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://elgunzamanov.com">
-    <img src="https://img.shields.io/badge/Website-1E1E21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Personal_Website-1E1E21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
   </a>
   <a href="https://github.com/elgunzamanov">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
