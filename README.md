@@ -177,9 +177,5 @@ My personal portfolio website showcasing my background, technical projects, and 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elgunzamanov&icon=0&color=0" alt="Profile Views" />
-</p>
-
-<p align="center">
   <i>Always learning. Always building. Always improving.</i>
 </p>
